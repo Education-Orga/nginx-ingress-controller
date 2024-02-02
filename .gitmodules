@@ -1,0 +1,3 @@
+[submodule "nginx-ingress-helm-operator"]
+	path = nginx-ingress-helm-operator
+	url = https://github.com/nginxinc/nginx-ingress-helm-operator.git
